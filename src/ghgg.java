@@ -10,4 +10,8 @@ public class ghgg {
 	public void setId(int id){
 		this.id=id;
 	}
+	
+	/**
+	 * fuck u  github.com
+	 */
 }
