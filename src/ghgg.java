@@ -14,4 +14,6 @@ public class ghgg {
 	/**
 	 * fuck u  github.com
 	 */
+	
+	//Long is a  Genius !
 }
